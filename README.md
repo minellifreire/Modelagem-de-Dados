@@ -1,2 +1,2 @@
 # Trilha---Modelagem
-Branch tem como proposta armazenar o documento de estudo de Modelagem
+Repositório tem como proposta armazenar todos os arquivos da Trilha de Modelagem 
